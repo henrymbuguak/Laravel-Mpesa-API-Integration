@@ -1,1 +1,1 @@
-## About M-pesa API Integration
+## Laravel M-pesa API Integration
