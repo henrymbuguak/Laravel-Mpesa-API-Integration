@@ -18,3 +18,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::post('v1/access/token', 'MpesaController@generateAccessToken');
+Route::post('v1/hlab/stk/push', 'MpesaController@customerMpesaSTKPush');
