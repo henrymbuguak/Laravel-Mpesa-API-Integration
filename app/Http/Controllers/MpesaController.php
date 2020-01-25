@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Storage;
 class MpesaController extends Controller
 {
 
-    /*
+    /**
      * Lipa na M-PESA password
      * */
 
@@ -25,7 +25,7 @@ class MpesaController extends Controller
     }
 
 
-    /*
+    /**
      * Lipa na M-PESA STK Push method
      * */
 
